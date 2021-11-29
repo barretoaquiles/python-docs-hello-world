@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'asi-helloworld-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DEC70DF449244F2C863741B4F96B988C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DAF352D8EA2B4DF2B12F4EC20D52B505 }}
